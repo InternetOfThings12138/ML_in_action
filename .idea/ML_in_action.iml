@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Ch02_kNN" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch03_decision_tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch05_Logistic/02weights_decision" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6 (ML_in_action)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
